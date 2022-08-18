@@ -1,0 +1,411 @@
+Started GET "/" for ::1 at 2022-08-18 09:09:03 -0300
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.3.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.3.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 657)
+Completed 200 OK in 8ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 5057)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:09:09 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.3.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.3.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 324)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1031)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:11:47 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 356)
+  Rendered layout layouts/application.html.erb (Duration: 106.1ms | Allocations: 68192)
+Completed 200 OK in 109ms (Views: 107.3ms | ActiveRecord: 0.0ms | Allocations: 71513)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:30:45 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 356)
+  Rendered layout layouts/application.html.erb (Duration: 33.4ms | Allocations: 26765)
+Completed 200 OK in 37ms (Views: 34.7ms | ActiveRecord: 0.0ms | Allocations: 30085)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:30:46 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 20)
+  Rendered layout layouts/application.html.erb (Duration: 4.0ms | Allocations: 2108)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 2420)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:31:01 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 3863)
+Completed 200 OK in 19ms (Views: 19.1ms | ActiveRecord: 0.0ms | Allocations: 4113)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:32:30 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 16.9ms | Allocations: 3747)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms | Allocations: 3993)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:33:57 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 151)
+  Rendered layout layouts/application.html.erb (Duration: 18.3ms | Allocations: 4594)
+Completed 200 OK in 25ms (Views: 22.4ms | ActiveRecord: 0.0ms | Allocations: 5435)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:34:43 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 2007)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 2271)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:37:32 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 1963)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 2212)
+
+
+Started GET "/" for ::1 at 2022-08-18 09:49:17 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 367)
+  Rendered layout layouts/application.html.erb (Duration: 2234.9ms | Allocations: 106930)
+Completed 500 Internal Server Error in 2239ms (ActiveRecord: 0.0ms | Allocations: 110201)
+
+
+  
+ActionView::Template::Error (The asset "application.js" is not present in the asset pipeline.
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    10:     <%= javascript_include_tag "application", "data-turbo-track": "reload", defer: true %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for ::1 at 2022-08-18 09:49:36 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 162)
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | Allocations: 5784)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 6664)
+
+
+Started GET "/..." for ::1 at 2022-08-18 09:49:36 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 09:51:05 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 369)
+  Rendered layout layouts/application.html.erb (Duration: 2842.6ms | Allocations: 147753)
+Completed 200 OK in 2846ms (Views: 2843.8ms | ActiveRecord: 0.0ms | Allocations: 151073)
+
+
+Started GET "/..." for ::1 at 2022-08-18 09:51:08 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:01:10 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 374)
+Started GET "/" for ::1 at 2022-08-18 10:01:10 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 30)
+Started GET "/" for ::1 at 2022-08-18 10:01:22 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 374)
+  Rendered layout layouts/application.html.erb (Duration: 3583.7ms | Allocations: 111105)
+Completed 200 OK in 3588ms (Views: 3585.2ms | ActiveRecord: 0.0ms | Allocations: 114425)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:01:26 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:02:25 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 3234.5ms | Allocations: 68385)
+Completed 200 OK in 3238ms (Views: 3235.0ms | ActiveRecord: 0.0ms | Allocations: 68678)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:02:28 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:04:04 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 44.3ms | Allocations: 45582)
+  Rendered layout layouts/application.html.erb (Duration: 49.1ms | Allocations: 53814)
+Completed 200 OK in 53ms (Views: 50.5ms | ActiveRecord: 0.0ms | Allocations: 57134)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:04:04 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:04:35 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 958)
+  Rendered layout layouts/application.html.erb (Duration: 14.3ms | Allocations: 9090)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms | Allocations: 9928)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:04:35 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:06:45 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 172)
+  Rendered layout layouts/application.html.erb (Duration: 3430.3ms | Allocations: 73054)
+Completed 200 OK in 3433ms (Views: 3432.3ms | ActiveRecord: 0.0ms | Allocations: 73888)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:06:48 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:26:08 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 376)
+  Rendered layout layouts/application.html.erb (Duration: 61.4ms | Allocations: 56491)
+Completed 500 Internal Server Error in 65ms (ActiveRecord: 0.0ms | Allocations: 59762)
+
+
+  
+ActionView::Template::Error (The asset "application.js" is not present in the asset pipeline.
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    10:     <%= javascript_include_tag "application", "data-turbo-track": "reload", defer: true %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for ::1 at 2022-08-18 10:26:30 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 3406.2ms | Allocations: 116519)
+Completed 200 OK in 3407ms (Views: 3406.7ms | ActiveRecord: 0.0ms | Allocations: 116854)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:26:33 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:28:13 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 87.8ms | Allocations: 11743)
+Completed 200 OK in 93ms (Views: 90.1ms | ActiveRecord: 0.0ms | Allocations: 12026)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:28:13 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:35:16 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 171)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 145)
+  Rendered layout layouts/application.html.erb (Duration: 15.4ms | Allocations: 9754)
+Completed 200 OK in 21ms (Views: 19.1ms | Allocations: 10553)
+
+
+Started GET "/..." for ::1 at 2022-08-18 10:35:17 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2022-08-18 10:36:43 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 142)
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 149)
+  Rendered layout layouts/application.html.erb (Duration: 22.6ms | Allocations: 9694)
+Completed 200 OK in 25ms (Views: 24.5ms | Allocations: 10507)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:37:29 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 157)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 151)
+  Rendered layout layouts/application.html.erb (Duration: 3144.2ms | Allocations: 76142)
+Completed 200 OK in 3152ms (Views: 3149.2ms | Allocations: 76971)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:39:17 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 16)
+  Rendered layout layouts/application.html.erb (Duration: 3147.0ms | Allocations: 75453)
+Completed 200 OK in 3148ms (Views: 3147.8ms | Allocations: 75713)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:47:45 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 382)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 155)
+  Rendered layout layouts/application.html.erb (Duration: 3435.7ms | Allocations: 126502)
+Completed 200 OK in 3440ms (Views: 3437.0ms | ActiveRecord: 0.0ms | Allocations: 129817)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:48:21 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.1ms | Allocations: 177)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 17.7ms | Allocations: 9971)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms | Allocations: 10842)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:48:53 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.6ms | Allocations: 177)
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 85.4ms | Allocations: 12622)
+Completed 200 OK in 91ms (Views: 88.8ms | ActiveRecord: 0.0ms | Allocations: 13460)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:49:08 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 16)
+  Rendered layout layouts/application.html.erb (Duration: 97.5ms | Allocations: 11710)
+Completed 200 OK in 98ms (Views: 98.1ms | ActiveRecord: 0.0ms | Allocations: 11981)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:49:28 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 180)
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 21.8ms | Allocations: 9915)
+Completed 200 OK in 27ms (Views: 25.4ms | ActiveRecord: 0.0ms | Allocations: 10725)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:49:55 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 194)
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 17.1ms | Allocations: 9868)
+Completed 200 OK in 21ms (Views: 19.8ms | ActiveRecord: 0.0ms | Allocations: 10700)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:52:20 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 422)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 155)
+  Rendered layout layouts/application.html.erb (Duration: 3560.8ms | Allocations: 127810)
+Completed 200 OK in 3567ms (Views: 3564.1ms | ActiveRecord: 0.0ms | Allocations: 131125)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:54:44 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 422)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 153)
+  Rendered layout layouts/application.html.erb (Duration: 143.3ms | Allocations: 60922)
+Completed 200 OK in 147ms (Views: 144.5ms | ActiveRecord: 0.0ms | Allocations: 64238)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:54:46 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 22.5ms | Allocations: 9147)
+Completed 200 OK in 23ms (Views: 23.0ms | ActiveRecord: 0.0ms | Allocations: 9458)
+
+
+Started GET "/" for ::1 at 2022-08-18 10:55:06 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 16)
+  Rendered layout layouts/application.html.erb (Duration: 136.3ms | Allocations: 11841)
+Completed 200 OK in 137ms (Views: 136.7ms | ActiveRecord: 0.0ms | Allocations: 12091)
+
+
